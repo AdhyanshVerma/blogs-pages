@@ -21,5 +21,19 @@
       "github"
     ],
     "title": "My First Blog Post"
+  },
+  {
+    "author": "CyberWise Team",
+    "date": "2026-04-25",
+    "id": "47874cd8-1f9c-4b2c-9299-d4e420617f41",
+    "readtime": 3,
+    "tags": [
+      "internet",
+      "privacy",
+      "security",
+      "digital literacy",
+      "tips"
+    ],
+    "title": "10 Smart Ways to Use the Internet Safely and Effectively"
   }
 ]
