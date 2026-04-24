@@ -9,5 +9,17 @@
       "guid"
     ],
     "title": "Hello World"
+  },
+  {
+    "author": "Jane Doe",
+    "date": "2026-04-24",
+    "id": "83a6c789-8979-4303-b12b-b3e514385044",
+    "readtime": 5,
+    "tags": [
+      "python",
+      "flask",
+      "github"
+    ],
+    "title": "My First Blog Post"
   }
 ]
